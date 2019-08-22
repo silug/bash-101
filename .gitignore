@@ -1,0 +1,6 @@
+.*.sw?
+/stats/
+/vendor
+/.bundle
+/Gemfile.lock
+.DS_Store

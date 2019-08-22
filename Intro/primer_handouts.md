@@ -1,0 +1,26 @@
+<!SLIDE>
+
+# Handout Notes
+
+.callout [fa-info-circle] Some slides have helpful Handout notes
+
+* Limitations in `showoff` cause the notes to only show when in an elongated ratio
+
+.callout.thumbsup Try resizing your window to make it taller than it is wide
+
+.callout [fa-info-circle] These will mostly be on `activity` pages
+
+~~~SECTION:handouts~~~
+
+  * Hi, I'm a helpful handout note!
+    * You can yell at the `showoff` developers at the [showoff homepage](https://showoff.io)
+      * https://showoff.io
+
+~~~ENDSECTION~~~
+
+~~~SECTION:notes~~~
+
+  * A feature request has been filed to allow for toggling handout notes
+
+~~~ENDSECTION~~~
+

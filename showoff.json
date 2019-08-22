@@ -1,0 +1,19 @@
+{
+  "name": "Onyx Point Training",
+  "description": "Template: Onyx Point Training",
+  "favicon": "file/_images/favicon.ico",
+  "feedback": true,
+  "sections": {
+    "Introduction": [
+      "Intro/title.md",
+      "Intro/instructor_kendall.md",
+      "Intro/instructor_steven.md",
+      "Intro/primer.md",
+      "Intro/gce_environment.md",
+      "Intro/primer_activities.md",
+      "Intro/primer_handouts.md",
+      "Intro/survey.md",
+      "Intro/goals.md"
+    ]
+  }
+}

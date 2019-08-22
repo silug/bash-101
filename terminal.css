@@ -1,0 +1,26 @@
+.minipreso {
+  float:left !important;
+  width: 48.5% !important;
+  height:98%;
+  border: 4px solid white !important;
+  transform: none !important;
+  margin:0 !important;
+}
+.minipresocontent {
+  width:100% !important;
+  height:100% !important;
+  margin:none !important;
+}
+.visibleterm {
+    width: 48.5% !important;
+    height: 98.4% !important;
+    float: right !important;
+    border: 4px solid white;
+    position: relative !important;
+    margin: 0;
+}
+
+ham {
+color: black;
+opacity: .5;
+}
