@@ -13,8 +13,8 @@
 ~~~SECTION:handouts~~~
 
   * Hi, I'm a helpful handout note!
-    * You can yell at the `showoff` developers at the [showoff homepage](https://showoff.io)
-      * https://showoff.io
+    * You can yell at the `showoff` developers at the [showoff homepage](https://puppetlabs.github.io/showoff/)
+      * https://puppetlabs.github.io/showoff/
 
 ~~~ENDSECTION~~~
 
