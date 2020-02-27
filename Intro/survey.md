@@ -24,7 +24,7 @@ how_long -> How long have have you been using `puppet`? *= {
    6mo1 -> Around six months
    1yr1 -> About a year
    2yr1 -> Two years or so
-   more1 -> Long enough to really appreciate it's growth
+   more1 -> Long enough to really appreciate its growth
 }
 
 ---
