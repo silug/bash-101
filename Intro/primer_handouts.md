@@ -2,13 +2,13 @@
 
 # Handout Notes
 
-.callout [fa-info-circle] Some slides have helpful Handout notes
+.callout.info Some slides have helpful Handout notes
 
 * Limitations in `showoff` cause the notes to only show when in an elongated ratio
 
 .callout.thumbsup Try resizing your window to make it taller than it is wide
 
-.callout [fa-info-circle] These will mostly be on `activity` pages
+.callout.info These will mostly be on `activity` pages
 
 ~~~SECTION:handouts~~~
 

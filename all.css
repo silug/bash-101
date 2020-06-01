@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'Titillium Web Bold';
-  src:url('fonts/TitilliumWeb-Bold.ttf') format('truetype');
+  src:url('file/fonts/TitilliumWeb-Bold.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Open Sans';
-  src:url('fonts/OpenSans-Regular.ttf') format('truetype');
+  src:url('file/fonts/OpenSans-Regular.ttf') format('truetype');
 }
 
 body {
