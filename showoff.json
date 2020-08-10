@@ -1,23 +1,61 @@
 {
-  "name": "Onyx Point Training",
-  "description": "Template: Onyx Point Training",
+  "name": "Bash 101",
+  "description": "Brownbag: Bash 101",
   "favicon": "file/_images/favicon.ico",
-  "feedback": true,
+  "feedback": false,
   "sections": {
     "Introduction": [
-      "Intro/title.md",
-      "Intro/instructor_kendall.md",
-      "Intro/instructor_steven.md",
-      "Intro/primer.md",
-      "Intro/gce_environment.md",
-      "Intro/primer_activities.md",
-      "Intro/primer_handouts.md",
-      "Intro/survey.md",
-      "Intro/goals.md"
+      "Intro/Title.md",
+      "Intro/History.md"
     ],
-    "Wrap Up": [
-      "WrapUp/Questions.md",
-      "WrapUp/Feedback.md"
+    "Week 1/Syntax": [
+      "Syntax/Title.md",
+      "Syntax/Commands.md",
+      "Syntax/Variables.md",
+      "Syntax/Environment.md",
+      "Syntax/PATH.md",
+      "Syntax/Comments.md",
+      "Syntax/Scripts.md",
+      "Syntax/Quoting.md",
+      "Syntax/Arrays.md",
+      "Syntax/Hashes.md",
+      "Syntax/declare.md",
+      "Syntax/Math.md",
+      "Syntax/Exit_codes.md",
+      "Syntax/test.md",
+      "Syntax/Chaining.md",
+      "Syntax/if.md",
+      "Syntax/case.md",
+      "Syntax/for.md",
+      "Syntax/while.md",
+      "Syntax/function.md",
+      "Syntax/eval.md",
+      "Syntax/trap.md"
+    ],
+    "Week 1/Example": [
+      "Examples/Title.md",
+      "Examples/spinner.md"
+    ],
+    "Interactive": [
+      "Interactive/Title.md",
+      "Interactive/Editing.md",
+      "Interactive/Tab.md",
+      "Interactive/Prompts.md",
+      "Interactive/History.md",
+      "Interactive/alias.md",
+      "Interactive/help.md"
+    ],
+    "Process Control": [
+    ],
+    "I/O": [
+    ],
+    "Variables": [
+    ],
+    "Expansion and Globbing": [
+    ],
+    "Debugging": [
+    ],
+    "Recommended Reading": [
     ]
   }
 }

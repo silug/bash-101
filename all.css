@@ -55,6 +55,18 @@ pre.highlight code.language-console {
 .hljs-literal {
   color: #3C7F1F; /* dark green code */
 }
+.hljs-meta {
+  color: #4293f5;
+}
+.hljs-built_in {
+  color: #00b003;
+}
+.hljs-string {
+  color: #f542e0;
+}
+.hljs-variable {
+  color: #f59b42;
+}
 
 /* SECTION TITLE SLIDES */
 .slide.center {
