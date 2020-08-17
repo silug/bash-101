@@ -69,7 +69,7 @@ Bash also supports inline arithmetic expansion.
 | <span style="font-family: monospace; border: 1px solid #666; background-color: #ededed; font-size: 1.1em;">&lt;&lt;=</span> | Assignment with left bitwise shift |
 | <span style="font-family: monospace; border: 1px solid #666; background-color: #ededed; font-size: 1.1em;">&gt;&gt;=</span> | Assignment with right bitwise shift |
 | <span style="font-family: monospace; border: 1px solid #666; background-color: #ededed; font-size: 1.1em;">&amp;=</span> | Assignment with bitwise **AND** |
-| <span style="font-family: monospace; border: 1px solid #666; background-color: #ededed; font-size: 1.1em;">^=</span> | Assignment with bitwise **XOR** |
+| <span style="font-family: monospace; border: 1px solid #666; background-color: #ededed; font-size: 1.1em;">&#94;=</span> | Assignment with bitwise **XOR** |
 | <span style="font-family: monospace; border: 1px solid #666; background-color: #ededed; font-size: 1.1em;">&#124;=</span> | Assignment with bitwise **OR** |
 
 <!SLIDE>
