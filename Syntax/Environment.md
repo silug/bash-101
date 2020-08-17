@@ -18,3 +18,16 @@ In Bash, environment variables are referenced the same way as internal variables
 By convention (due to ancient Unix rules), environment variable names are generally uppercase.
 
 ~~~ENDSECTION~~~
+
+<!SLIDE>
+# Environment Variables
+
+To assign an environment variable only for a specific command, preface the command with a variable assignment in the form
+<span style="font-family: monospace; border: 1px solid #666; background-color: #ededed;"><i>name</i>=<i>value</i></span>.
+
+    @@@ Console
+    $ variable=value ruby -e 'puts ENV["variable"]'
+    value
+    $ echo $variable
+
+    $
