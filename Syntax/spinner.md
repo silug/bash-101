@@ -1,9 +1,11 @@
 <!SLIDE>
+
     @@@ bash
     #!/bin/bash
 
     status () {
-        echo -e 'el1\nhpa 0' | tput -S
+        tput el1
+        tput hpa 0
 
         echo -n $1
     }

@@ -3,6 +3,29 @@
 
 Bash supports various math operations.
 
+Variables can be used in arithmetic expressions either by using `declare -i` or by using `let` or `(( ))`.
+
+    @@@ Console
+    $ (( n = 2 + 2 )) ; echo $n
+    4
+
+.break
+
+    @@@ Console
+    $ let 'n = 2 + 2' ; echo $n
+    4
+
+<!SLIDE>
+# Math
+
+Bash also supports inline arithmetic expansion.
+
+    @@@ Console
+    $ echo $(( 2 + 2 ))
+    4
+
+.break
+
     @@@ Console
     $ echo $[ 2 + 2 ]
     4

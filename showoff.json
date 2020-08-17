@@ -8,7 +8,7 @@
       "Intro/Title.md",
       "Intro/History.md"
     ],
-    "Week 1/Syntax": [
+    "Basic Syntax and Control Structures": [
       "Syntax/Title.md",
       "Syntax/Commands.md",
       "Syntax/Variables.md",
@@ -30,11 +30,9 @@
       "Syntax/while.md",
       "Syntax/function.md",
       "Syntax/eval.md",
-      "Syntax/trap.md"
-    ],
-    "Week 1/Example": [
-      "Examples/Title.md",
-      "Examples/spinner.md"
+      "Syntax/trap.md",
+      "Syntax/Example.md",
+      "Syntax/spinner.md"
     ],
     "Interactive": [
       "Interactive/Title.md",
