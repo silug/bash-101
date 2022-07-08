@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 # Mandatory
 gem 'showoff', '~> 0.20.2'
+gem 'rexml', '~> 3.2.5'
 
 # For Validation
 gem 'puppet'
